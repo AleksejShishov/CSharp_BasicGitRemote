@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Task_0
 {
-    internal class BooksStorage
+    internal class UserStorage
     {
     }
 }
