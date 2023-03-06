@@ -7,5 +7,6 @@
         Console.WriteLine($"Маша, Вы выглядите на  {result} лет");
         // Com2
         // Com3
+        // Made Task7
     }
 }
